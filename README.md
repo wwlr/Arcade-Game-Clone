@@ -19,4 +19,5 @@
 * 游戏对象（玩家和汽车）是用 JavaScript 面向对象编程功能运行的。
 
 
-
+Click [here](https://wwlr.github.io/agame/) to start your game.
+ 
